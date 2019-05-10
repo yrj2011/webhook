@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.3.1
+FROM  gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.3.1
